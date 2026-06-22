@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "muskatiermaestri.aternos.me:50092",
+    "port": 50092,
     "version": "",
     "try-creative": false
   },
