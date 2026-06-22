@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "muskatiermaestri.aternos.me:50092",
+    "ip": "muskatiermaestri.aternos.me",
     "port": 50092,
-    "version": "26.2 (31)",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
